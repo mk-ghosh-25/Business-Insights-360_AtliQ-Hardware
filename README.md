@@ -1,8 +1,7 @@
 <h1 align="center"> Business Insights 360 - AtliQ Hardware </h1>
 AtliQ Hardware, a rapidly growing computer hardware company, faced challenges with outdated Excel-based analysis for managing large data volumes. They needed advanced analytics for data-driven decision-making and effective reporting.<br><br>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZTQ2OGE5MzMtNDU5MS00MGM3LTg2MWMtN2MxNGJkOTM1YmJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> View Live Interactive Dashboard </a><br><br>
-Click here to - <a href="https://mavenanalytics.io/project/18173"> View Insights, Recommendations & Interactive Dashboard </a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTQ2OGE5MzMtNDU5MS00MGM3LTg2MWMtN2MxNGJkOTM1YmJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> View Live Dashboard </a> <br><a href="https://mavenanalytics.io/project/18173"> View Insights, Recommendations & Interactive Dashboard </a>
 <br><br>
 
 ### Tech Stack used-
