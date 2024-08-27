@@ -9,7 +9,7 @@ AtliQ Hardware, a rapidly growing computer hardware company, faced challenges wi
 * Power BI Desktop & Power BI Service
 * Excel
 * DAX Studio
-* Project Charter file
+* Project Charter file 
 <br><br>
 
 ### Power BI techniques implemented-
