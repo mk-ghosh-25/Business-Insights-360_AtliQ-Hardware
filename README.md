@@ -81,7 +81,7 @@ AtliQ Hardware, a rapidly growing computer hardware company, faced challenges wi
 * Conduct surveys in the LATAM region to better understand consumer behavior and focus on products with the highest demand, ensuring better market penetration
 <br><br>
 
-### Key Enhancements to Dashboard-
+### Key Enhancements to the Dashboard-
 * Pop-ups for Information & to Find support for users enhanching User Experience
 * Seamless Page Navigation
 * Data refreshed button & Data last loaded button
