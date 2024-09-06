@@ -41,7 +41,7 @@ AtliQ Hardware, a rapidly growing computer hardware company, faced challenges wi
   - Profit & Loss Statement
   - Inventory Risk
   - Gross Margin & Gross Margin% Variance
-  - AtliQ's Market Share & Revenue Contribution
+  - AtliQ's Market Share & Revenue Contribution 
 <br><br>
 
 ### Insights-
