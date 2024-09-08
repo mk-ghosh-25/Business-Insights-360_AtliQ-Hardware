@@ -1,8 +1,5 @@
 <h1 align="center"> Business Insights 360 - AtliQ Hardware </h1>
-AtliQ Hardware, a rapidly growing computer hardware company, faced challenges with outdated Excel-based analysis for managing large data volumes. They needed advanced analytics for data-driven decision-making and effective reporting.<br><br>
-
-<a href="https://mavenanalytics.io/project/18173"> View Full Report details </a>
-<br><br>
+AtliQ Hardware, a rapidly growing computer hardware company, faced challenges with outdated Excel-based analysis for managing large data volumes. They needed advanced analytics for data-driven decision-making and effective reporting that will enable them to have a competitive edge over their competitors. <br>This report of Business Insights 360 provides a detailed insights on various departments viz. Finance, Sales, Marketing, Supply Chain, Products & the Executive departments for AtliQ Hardware. Check the full report provided below - <br><br>
 
 ### Tech Stack used
 * SQL
@@ -87,6 +84,9 @@ AtliQ Hardware, a rapidly growing computer hardware company, faced challenges wi
 * Optimize inventory levels to reduce risks like stockouts (OOS) and excess inventory
 * Involve cross-functional teams in the forecasting process to ensure effective planning and maximize resource utilization, reducing risks such as OOS or excess inventory
 * Conduct surveys in the LATAM region to better understand consumer behavior and focus on products with the highest demand, ensuring better market penetration
+<br><br>
+
+<a href="https://mavenanalytics.io/project/18173"> View Full Report details </a>
 <br><br>
 
 ### Key Enhancements to the Dashboard
