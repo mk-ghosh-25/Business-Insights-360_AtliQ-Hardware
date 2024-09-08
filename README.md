@@ -27,6 +27,7 @@ AtliQ Hardware, a rapidly growing computer hardware company, faced challenges wi
 * Established Data modeling between 15 tables
 * Establishing the right relationships between tables is crucial for correct & effective Data analysis
 * Utilized Snowflake Schema for Data modeling
+<img align="center" src="https://github.com/mk-ghosh-25/Business-Insights-360_AtliQ-Hardware/blob/main/d-modeling.png?raw=true" height="580" width="1200">
 <br><br>
 
 ### Dashboard View
