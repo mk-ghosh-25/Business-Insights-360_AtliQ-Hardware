@@ -28,7 +28,7 @@ AtliQ Hardware, a rapidly growing computer hardware company, faced challenges wi
 <br><br>
 
 ### Dashboard View
-* <h4>Home Page: Centralized hub for seamless Page navigation</h4> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/fc120612-1875-4833-a37d-7309d22f5a3d.png" height="700" width="1600"> <br><br><br>
+* <h4>Home Page: Centralized hub for seamless Page navigation</h4> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/fc120612-1875-4833-a37d-7309d22f5a3d.png" height="540" width="960"> <br><br><br>
 * <h4>Finance view: Financial metrics analysis</h4> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/36ce93ee-6fce-4a3b-b46d-2e38fbf6c04a.png" height="700" width="1600"> <br><br>
 * <h4>Sales view:</b> Sales performance insights</h4> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/746cb5be-206d-4cf5-b544-48f28658016c.png" height="700" width="1600"> <br><br>
 * <h4>Marketing view: Marketing strategy insights</h4> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/a5352dbe-6ba4-4b09-8175-5ac160c4a79c.png" height="700" width="1600"> <br><br>
