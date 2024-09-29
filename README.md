@@ -33,8 +33,8 @@ AtliQ Hardware, a rapidly growing computer hardware company, faced challenges wi
 * <h3>Sales view:</b> Sales performance insights</h3> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/746cb5be-206d-4cf5-b544-48f28658016c.png" height="540" width="960"> <br><br>
 * <h3>Marketing view: Marketing strategy insights</h3> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/a5352dbe-6ba4-4b09-8175-5ac160c4a79c.png" height="540" width="960"> <br><br>
 * <h3>Supply Chain view: Supply chain metrics & Operations optimization</h3> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/a699e665-dae5-4672-a0be-3552f0205f09.png" height="540" width="960"> <br><br>
-* <h4>Products view: Insights on Key products & customers</h4> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/2967e1fc-d93c-4f59-934a-efc91d136f13.png" height="540" width="960"> <br><br>
-* <h4>Executive view: Historical metrics customized for Executive members that enables strategic decision making</h4> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/4114838b-8b65-467a-b6b1-83f9bc6772a3.png" height="540" width="960"> <br><br>
+* <h3>Products view: Insights on Key products & customers</h3> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/2967e1fc-d93c-4f59-934a-efc91d136f13.png" height="540" width="960"> <br><br>
+* <h3>Executive view: Historical metrics customized for Executive members that enables strategic decision making</h3> <img align="center" src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/195370316/projects/4114838b-8b65-467a-b6b1-83f9bc6772a3.png" height="540" width="960"> <br><br>
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZTQ2OGE5MzMtNDU5MS00MGM3LTg2MWMtN2MxNGJkOTM1YmJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"> View Live Dashboard </a> <br><br>
 
